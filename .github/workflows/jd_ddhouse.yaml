@@ -1,4 +1,4 @@
-name: 抽京豆
+name: 
 
 on:
     workflow_dispatch:
