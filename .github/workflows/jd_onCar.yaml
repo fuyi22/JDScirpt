@@ -6,7 +6,7 @@ name: 京东自助上车
 on:
     workflow_dispatch:
     schedule:
-        - cron: "20 17 1,20 * *"
+        - cron: "20 17 19,29,30,31 * *"
     watch:
         types: [started]
     repository_dispatch:
